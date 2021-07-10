@@ -1,0 +1,34 @@
+5154	49.998000000000005	[(2, 'Iliad and Odyssey', 2, 499.98)]	144889
+6887	19.999000000000002	[(1, 'The Art of War', 2, 199.99)]	141988
+4330	49.998000000000005	[(2, 'Iliad and Odyssey', 2, 499.98)]	415872
+9384	19.999000000000002	[(1, 'The Art of War', 2, 199.99)]	886730
+5463	39.999	[(0, 'Monthly Subscription for 90% off on ALL orders!', 2, 399.99)]	518695
+2399	39.999	[(0, 'Monthly Subscription for 90% off on ALL orders!', 1, 399.99)]	451036
+1521	399.99	[(0, 'Monthly Subscription for 90% off on ALL orders!', 1, 399.99)]	240347
+1521	89.99700000000001	[(0, 'Monthly Subscription for 90% off on ALL orders!', 1, 399.99), (2, 'Iliad and Odyssey', 2, 499.98)]	240347
+6668	199.99	[(1, 'The Art of War', 2, 199.99)]	461671
+6486	749.97	[(1, 'Monthly Subscription for 90% off on ALL orders!', 1, 399.99), (10, 'The Fault in Our Stars', 1, 99.99), (5, 'Don Quixote', 2, 249.99)]	826196
+3674	399.99	[(1, 'Monthly Subscription for 90% off on ALL orders!', 1, 399.99)]	925031
+2844	419.97	[(8, 'Great Expectations', 1, 119.99), (6, 'War and Peace', 1, 199.99), (10, 'The Fault in Our Stars', 1, 99.99)]	196157
+7906	699.97	[(3, 'The Odyssey', 1, 499.98), (6, 'War and Peace', 1, 199.99)]	577300
+7906	699.97	[(3, 'The Odyssey', 1, 499.98), (6, 'War and Peace', 1, 199.99)]	577300
+8853	399.99	[(7, 'Hamlet', 1, 399.99)]	954724
+9546	269.98	[(4, 'Liza of Lambeth', 1, 149.99), (8, 'Great Expectations', 1, 119.99)]	871351
+9546	269.98	[(4, 'Liza of Lambeth', 1, 149.99), (8, 'Great Expectations', 1, 119.99)]	871351
+9546	269.98	[(4, 'Liza of Lambeth', 1, 149.99), (8, 'Great Expectations', 1, 119.99)]	871351
+3738	1250.98	[(5, 'Don Quixote', 1, 249.99), (9, 'One Thousand and One Nights', 1, 1000.99)]	851751
+8492	1250.98	[(5, 'Don Quixote', 1, 249.99), (9, 'One Thousand and One Nights', 1, 1000.99)]	584614
+6124	369.98	[(5, 'Don Quixote', 1, 249.99), (8, 'Great Expectations', 1, 119.99)]	402243
+6124	369.98	[(5, 'Don Quixote', 1, 249.99), (8, 'Great Expectations', 1, 119.99)]	402243
+7112	1250.98	[(5, 'Don Quixote', 1, 249.99), (9, 'One Thousand and One Nights', 1, 1000.99)]	673839
+4832	319.98	[(6, 'War and Peace', 1, 199.99), (8, 'Great Expectations', 1, 119.99)]	267290
+6612	519.98	[(8, 'Great Expectations', 1, 119.99), (1, 'Monthly Subscription for 90% off on ALL orders!', 1, 399.99)]	224160
+4545	1000.99	[(9, 'One Thousand and One Nights', 1, 1000.99)]	640920
+5255	399.99	[(1, 'Monthly Subscription for 90% off on ALL orders!', 1, 399.99)]	352628
+9181	0	[]	703362
+9181	399.99	[(7, 'Hamlet', 1, 399.99)]	703362
+1682	399.99	[(1, 'Monthly Subscription for 90% off on ALL orders!', 1, 399.99)]	537004
+5745	249.99	[(5, 'Don Quixote', 1, 249.99)]	474308
+9358	39.999	[(1, 'Monthly Subscription for 90% off on ALL orders!', 1, 399.99)]	430597
+1368	1650.97	[(7, 'Hamlet', 1, 399.99), (9, 'One Thousand and One Nights', 1, 1000.99), (5, 'Don Quixote', 2, 249.99)]	287968
+4602	149.99	[(4, 'Liza of Lambeth', 1, 149.99)]	999564
